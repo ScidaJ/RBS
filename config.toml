@@ -17,10 +17,10 @@ enableRobotsTXT = true
 
 [params]
   text_color = ""
-  author = ""
+  author = "Jacob Scida"
   favicon = ""
   site_logo = ""
-  description = "The last theme you'll ever need. Maybe."
+  description = "Providing compliance services to broker dealers, including branch inspections, including WSP review and checklists, email review, and more"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
   recent_posts_number = 3
