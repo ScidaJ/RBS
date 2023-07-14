@@ -1,5 +1,5 @@
 #! /bin/sh/
-cd /d/DOCUMENTS/registeredbranchservices
+cd /c/RBS
 git add .
 git commit -m "."
 git push
