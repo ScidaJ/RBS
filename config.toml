@@ -17,7 +17,7 @@ enableRobotsTXT = true
 
 [params]
   text_color = ""
-  author = "Jacob Scida"
+  author = "Jacob Scida, Peter Scida"
   favicon = ""
   site_logo = ""
   description = "Providing compliance services to broker dealers, including branch inspections, including WSP review and checklists, email review, and more"

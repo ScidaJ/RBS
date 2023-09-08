@@ -1,5 +1,5 @@
 #! /bin/sh/
-cd /c/RBS
+cd /c/Users/petes/Documents/RBS
 git add .
 git commit -m "."
 git push
